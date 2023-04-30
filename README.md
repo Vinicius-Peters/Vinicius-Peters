@@ -21,10 +21,11 @@ Here are some ideas to get you started:
   <img align="center" alt="Airflow" height="40" width="40"src="https://pbs.twimg.com/profile_images/1176455256869412866/Xu7llkL3_400x400.png">
   <img align="center" alt="Airflow" height="40" width="40"src="https://icon2.cleanpng.com/20180604/ugu/kisspng-tableau-software-computer-software-data-visualizat-software-5b15522a0e7784.0669530915281239460593.jpg">
   <img align="center" alt="Airflow" height="40" width="40"src="https://icon2.cleanpng.com/20180708/xhp/kisspng-power-bi-business-intelligence-microsoft-analytics-power-bi-5b424ce9a22274.0916845615310717216641.jpg">
-  <img align="right" alt="GifTest" height="150" width="250"src="https://thumbs.gfycat.com/ElasticIdolizedKitfox-max-1mb.gif">
+  <img align="right" alt="GifTest" height="150" width="250"src="https://i.gifer.com/origin/b1/b103363ac155bfa8895c2bf3cf0b4b41.gif">
+  <!--<img align="right" alt="GifTest" height="150" width="250"src="https://thumbs.gfycat.com/ElasticIdolizedKitfox-max-1mb.gif">-->
 </div>
-
 ##
+
 
 <div>
   <a href="mailto:vinipeters1@gmail.com" alt="Gmail">
