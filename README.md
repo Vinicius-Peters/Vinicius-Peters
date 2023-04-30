@@ -1,4 +1,4 @@
-### Hi, My name is Vinícius 👋
+### Hi, my name is Vinícius 👋
 
 <!--
 **Vinicius-Peters/Vinicius-Peters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,11 +6,13 @@
 Here are some ideas to get you started:
 -->
 
-- 🏁 Working as a Data Engineer
-- 🎮 I’m currently learning Airflow and Docker
+- 🏁 Working as a Data Engineer at Ernst & Young
 - 🏆 My daily tools are: Azure Synapse, SQL, PySpark
+- 🎮 I’m currently learning Airflow and Docker
 - 🎓 Information Systems Graduate
 
+
+## *Language and Tools:*
 <div style=": inline_block"> <br>
   <img align="center" alt="Python" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Python" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
@@ -26,10 +28,7 @@ Here are some ideas to get you started:
   <!--<img align="right" alt="GifTest" height="150" width="250"src="https://thumbs.gfycat.com/ElasticIdolizedKitfox-max-1mb.gif">-->
 </div>
 
-
-##
-
-
+## *How to reach me:*
 <div>
   <a href="mailto:vinipeters1@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
@@ -41,5 +40,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
 </div>
-
-
