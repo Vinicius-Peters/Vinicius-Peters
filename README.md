@@ -1,4 +1,4 @@
-### Hi, my name is Vinícius 👋
+### Hello, folks! 👋
 
 <!--
 **Vinicius-Peters/Vinicius-Peters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
