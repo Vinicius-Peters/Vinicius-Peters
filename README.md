@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🏁 Working as a Data Engineer
 - 🎮 I’m currently learning Airflow and Docker
 - 🏆 My daily tools are: Azure Synapse, SQL, PySpark
+- 🎓 Information Systems Graduate
 
 <div style=": inline_block"> <br>
   <img align="center" alt="Python" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
