@@ -1,16 +1,9 @@
 ### Hello, folks! 👋
 
-<!--
-**Vinicius-Peters/Vinicius-Peters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
 - 🏁 Working as a Data Engineer at Ernst & Young
 - 🏆 My daily tools are: Azure Synapse, SQL, PySpark
 - 🎮 I’m currently learning Airflow and Docker
 - 🎓 Information Systems Graduate
-
 
 ## *Language and Tools:*
 <div style=": inline_block"> <br>
