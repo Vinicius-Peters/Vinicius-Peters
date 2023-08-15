@@ -1,9 +1,9 @@
 ### Hello, folks! 👋
 
-- 🏁 Working as a Data Engineer at Ernst & Young
-- 🏆 My daily tools are: Azure Synapse, Azure Pipelines Sustain, SQL, PySpark and tunning
-- 🎮 I’m currently learning Airflow and Docker
-- 🎓 Bacharelor's in Information Systems
+- 🏁 Working as a Data Engineer at Ernst & Young;
+- 🏆 My daily tools are: Azure Synapse, Azure Pipelines, Git Actions, SQL, PySpark;
+- 🎮 I’m currently learning Airflow and Docker;
+- 🎓 Bacharelor's in Information Systems;
 
 
 In my daily routine, my job involves providing data for 3 different product squads, where I consume data from various sources, whether structured or not. I perform ingestion through Azure Synapse Pipelines, carrying out data transformations and cleaning using PySpark and SQL, in addition to working with Git Actions for version control. Lastly, I ensure data quality before delivering it to the gold layer for the squads.
