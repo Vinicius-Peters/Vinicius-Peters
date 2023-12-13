@@ -1,7 +1,7 @@
 ### Hello, folks! 👋
 
 - 🏁 Working as a Data Engineer at Ernst & Young;
-- 🏆 My daily tools are: Azure Synapse, Azure Pipelines, Git Actions, SQL, PySpark;
+- 🏆 My daily tools are: Azure Synapse, Azure Pipelines, Git, SQL, PySpark;
 - 🎮 I’m currently learning Airflow and Docker;
 - 🎓 Bacharelor's in Information Systems;
 
