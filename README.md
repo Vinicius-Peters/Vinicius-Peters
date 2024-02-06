@@ -6,7 +6,7 @@
 - 🎓 Bacharelor's in Information Systems;
 
 
-In my daily routine, my job involves providing data for 3 different product squads, where I consume data from various sources, whether structured or not. I perform ingestion through Azure Synapse Pipelines, carrying out data transformations and cleaning using PySpark and SQL, in addition to working with Git Actions for version control. Lastly, I ensure data quality before delivering it to the gold layer for the squads.
+In my daily routine, my job involves providing data for 2 different product squads, where I consume data from various sources, whether structured or not. I perform ingestion through Azure Synapse Pipelines, carrying out data transformations and cleaning using PySpark and SQL, in addition to working with Git Actions for version control. Lastly, I ensure data quality before delivering it to the gold layer for the squads.
 
 ## *Language and Tools:*
 <div style=": inline_block"> <br>
