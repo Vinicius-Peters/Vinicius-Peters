@@ -1,12 +1,10 @@
 ### Hello, folks! 👋
 
-- 🏁 Working as a Data Engineer at Ernst & Young;
-- 🏆 My daily tools are: Azure Synapse, Azure Data Factory, Azure Pipelines, Git, SQL, PySpark;
-- 🎮 I’m currently learning Airflow, Docker, Databricks;
+- 🏁 Working as a Data Engineer at RD Station;
+- 🏆 My daily work uses: Nifi, SQL, Hive, Airflow;
 - 🎓 Bacharelor's in Information Systems;
 
 
-In my daily routine, my job involves providing data for 2 different product squads, where I consume data from various sources, whether structured or not. I perform ingestion through Azure Synapse Pipelines, carrying out data transformations and cleaning using PySpark and SQL, in addition to working with Git Actions for version control. Lastly, I ensure data quality before delivering it to the gold layer for the squads.
 
 ## *Language and Tools:*
 <div style=": inline_block"> <br>
