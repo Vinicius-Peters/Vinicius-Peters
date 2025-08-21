@@ -1,7 +1,7 @@
 ### Hello, folks! 👋
 
 - 🏁 Working as a Data Engineer at RD Station;
-- 🏆 My daily work uses: Nifi, SQL, Hive, Airflow;
+- 🏆 My daily work uses:  SQL, DBT, Nifi, Airflow and GCP;
 - 🎓 Bacharelor's in Information Systems;
 
 
@@ -16,8 +16,6 @@
   <img align="center" alt="Python" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Python" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Airflow" height="40" width="40"src="https://pbs.twimg.com/profile_images/1176455256869412866/Xu7llkL3_400x400.png">
-  <img align="center" alt="Airflow" height="40" width="40"src="https://icon2.cleanpng.com/20180604/ugu/kisspng-tableau-software-computer-software-data-visualizat-software-5b15522a0e7784.0669530915281239460593.jpg">
-  <img align="center" alt="Airflow" height="40" width="40"src="https://icon2.cleanpng.com/20180708/xhp/kisspng-power-bi-business-intelligence-microsoft-analytics-power-bi-5b424ce9a22274.0916845615310717216641.jpg">
   
 </div>
 
