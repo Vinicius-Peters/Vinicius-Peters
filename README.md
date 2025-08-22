@@ -4,9 +4,6 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 # <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"  width="120" /> &nbsp; Hi 👋, I'm Vinícius Peters; <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /> </p>
 
-
-<p align="center"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" height="200 "width="400" style="border-radius: 80">  </p>
-
 <br>
 
 - 🔭 I’m currently working at RD Station
@@ -27,7 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius-peters&show_icons=true&locale=en&layout=compact" alt="vinicius-peters" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinicius-peters&show_icons=true&locale=en" alt="vinicius-peters" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius-peters&" alt="vinicius-peters" /></p>
 
