@@ -12,7 +12,7 @@
 - 💬 Ask me about **SQL, Data modeling, Microsoft Azure Cloud**
 
 - 📫 How to reach me:  <a href="mailto:vinipeters1@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+ <img align="center" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 <h3 align="left"> <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/parrot.gif" width="30" height="40"/>Connect with me:  </h3>
 
  
