@@ -13,7 +13,7 @@
 
 - 📫 How to reach me:  <a href="mailto:vinipeters1@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-<h3 align="left">Connect with me: <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/parrot.gif" width="30" height="40"/> </h3>
+<h3 align="left"> <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/parrot.gif" width="30" height="40"/>Connect with me:  </h3>
 
  
 <p align="left">
@@ -26,7 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius-peters&show_icons=true&locale=en&layout=compact" alt="vinicius-peters" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius-peters&" alt="vinicius-peters" /></p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400"> <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
 <br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinicius-peters&label=Profile%20views&color=0e75b6&style=flat" alt="vinicius-peters" /> </p>
