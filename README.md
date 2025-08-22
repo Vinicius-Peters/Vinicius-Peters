@@ -15,7 +15,6 @@
  <img align="center" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 <h3 align="left"> <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/parrot.gif" width="30" height="40"/>Connect with me:  </h3>
 
- 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vinícius-peters/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/vinícius-peters/" height="40" width="50" /></a>
 </p>
