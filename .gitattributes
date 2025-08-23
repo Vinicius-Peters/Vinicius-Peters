@@ -2,8 +2,7 @@
 *.py linguist-detectable=true
 *.sql linguist-detectable=true
 
-*.js linguist-vendored
-*.json linguist-vendored
-*.lock linguist-vendored
-*.dart linguist-vendored
-*.vue linguist-vendored
+*.vue linguist-detectable=false
+*.dart linguist-detectable=false
+*.js linguist-detectable=false
+*.json linguist-detectable=false
